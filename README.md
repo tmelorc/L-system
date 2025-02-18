@@ -7,7 +7,11 @@ Os vídeos mp4 podem ser vistos no Youtube (ou baixados diretamente do Github)
 
 [Koch Curve Animation](https://youtu.be/JS4zxG4GvxE)
 
+[Alternate Koch Curve Animation](https://youtu.be/rb5V-x0vKZ4)
+
 [Semi Alternate Koch Curve Animation](https://youtu.be/BIr6f3a7DKc)
+
+
 
 
 
